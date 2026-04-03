@@ -5,7 +5,7 @@ This project is a **Healthcare Cost Prediction System** using **Python**, **Rand
 It predicts the treatment cost for patients based on their **demographics, diagnosis, and chronic diseases**.  
 The project is designed to be **portfolio-ready** and demonstrates **data analysis, machine learning, and visualization skills**.
 
-![img](outputs/figures/...)
+outputs\figures\chronic_vs_cost.png
 ---
 
 ## 📂 Project Structure
